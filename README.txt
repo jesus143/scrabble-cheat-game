@@ -1,3 +1,4 @@
+Type: Test
 Application Name: Scrabble Cheat Game
 Developer: Jesus Erwin Suarez
 Developer Url: http://jesuserwinsuarez.com
