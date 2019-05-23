@@ -1,4 +1,5 @@
-Type: Test
+Title: Fullstack Developer
+Type: PHP Test
 Application Name: Scrabble Cheat Game
 Developer: Jesus Erwin Suarez
 Developer Url: http://jesuserwinsuarez.com
